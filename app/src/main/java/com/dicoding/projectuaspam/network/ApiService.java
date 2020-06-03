@@ -1,4 +1,4 @@
-package com.dicoding.projectuaspam.network.remote;
+package com.dicoding.projectuaspam.network;
 
 import com.dicoding.projectuaspam.model.ResponseMovie;
 

@@ -11,8 +11,8 @@ import androidx.lifecycle.ViewModel;
 import com.dicoding.projectuaspam.BuildConfig;
 import com.dicoding.projectuaspam.model.ResponseMovie;
 import com.dicoding.projectuaspam.model.ResultsItem;
-import com.dicoding.projectuaspam.network.remote.ApiConfig;
-import com.dicoding.projectuaspam.network.remote.ApiService;
+import com.dicoding.projectuaspam.network.ApiConfig;
+import com.dicoding.projectuaspam.network.ApiService;
 
 import java.util.ArrayList;
 import java.util.List;
