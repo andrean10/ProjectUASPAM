@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Crowd Movies</string>
+    <string name="title">Catalog Movie</string>
+    <string name="title_movie" translatable="true">Title Movie</string>
+    <string name="date_movie" translatable="false">Date</string>
+    <string name="description" translatable="false">Description</string>
+    <string name="detail_info">Detail Info</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="input_search">Search…</string>
+    <string name="change_language">Change Language</string>
+    <string name="poster_movie">Poster Movie</string>
+    <string name="release">Release Date</string>
+    <string name="popularity">Popularity</string>
+    <string name="rating_status">Rating</string>
+    <string name="value">0.0</string>
+    <string name="storyline">Storyline</string>
+</resources>
