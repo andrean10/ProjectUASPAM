@@ -53,7 +53,6 @@ public class HomeActivity extends AppCompatActivity implements SearchView.OnQuer
             public void onChanged(ArrayList<ResultsItem> resultsItems) {
                 if (resultsItems != null) {
                     adapter.setData(resultsItems);
-                    saveResultItems = resultsItems;
                     binding.rv.setLayoutManager(new LinearLayoutManager(HomeActivity.this));
                     binding.rv.setAdapter(adapter);
                     showLoading(false);

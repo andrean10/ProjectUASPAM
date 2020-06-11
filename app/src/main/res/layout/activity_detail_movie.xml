@@ -35,7 +35,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 app:layout_collapseMode="pin"
-                app:popupTheme="@style/AppTheme.PopupOverlay"></androidx.appcompat.widget.Toolbar>
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
 
             <ProgressBar
                 android:id="@+id/progressBarImage"
@@ -62,8 +62,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
-        tools:context=".view.DetailMovieActivity"
-        tools:showIn="@layout/activity_detail_movie">
+        tools:context=".view.DetailMovieActivity">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
